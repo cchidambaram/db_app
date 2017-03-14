@@ -19,4 +19,3 @@ Double Clicking the dbms.exe file:
 	script=xyz.txt > output.txt
  
 
-Begin Transaction - commit /rollback will work only in the script file input.
